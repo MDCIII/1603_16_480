@@ -23,7 +23,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     rdfs:label "1603:16:480:1:11" ;
     obo:BFO_0000124 <urn:mcdiii:1603:16:480:0> ;
     skos:prefLabel "Port Louis"@eng-Latn ;
-    wdata:q7200235 "MU11" ;
+    wdata:Q7200235 "MU11" ;
 .
 
 <urn:mdciii:1603:16()>
@@ -56,7 +56,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     rdfs:label "1603:16:480:1:12" ;
     obo:BFO_0000124 <urn:mcdiii:1603:16:480:0> ;
     skos:prefLabel "Pamplemousses"@eng-Latn ;
-    wdata:q7200235 "MU12" ;
+    wdata:Q7200235 "MU12" ;
 .
 
 <urn:mdciii:1603:16:480:1:13>
@@ -67,7 +67,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     rdfs:label "1603:16:480:1:13" ;
     obo:BFO_0000124 <urn:mcdiii:1603:16:480:0> ;
     skos:prefLabel "Riviere du Rempart"@eng-Latn ;
-    wdata:q7200235 "MU13" ;
+    wdata:Q7200235 "MU13" ;
 .
 
 <urn:mdciii:1603:16:480:1:14>
@@ -78,7 +78,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     rdfs:label "1603:16:480:1:14" ;
     obo:BFO_0000124 <urn:mcdiii:1603:16:480:0> ;
     skos:prefLabel "Flacq"@eng-Latn ;
-    wdata:q7200235 "MU14" ;
+    wdata:Q7200235 "MU14" ;
 .
 
 <urn:mdciii:1603:16:480:1:15>
@@ -89,7 +89,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     rdfs:label "1603:16:480:1:15" ;
     obo:BFO_0000124 <urn:mcdiii:1603:16:480:0> ;
     skos:prefLabel "Grand Port"@eng-Latn ;
-    wdata:q7200235 "MU15" ;
+    wdata:Q7200235 "MU15" ;
 .
 
 <urn:mdciii:1603:16:480:1:16>
@@ -100,7 +100,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     rdfs:label "1603:16:480:1:16" ;
     obo:BFO_0000124 <urn:mcdiii:1603:16:480:0> ;
     skos:prefLabel "Savanne"@eng-Latn ;
-    wdata:q7200235 "MU16" ;
+    wdata:Q7200235 "MU16" ;
 .
 
 <urn:mdciii:1603:16:480:1:17>
@@ -111,7 +111,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     rdfs:label "1603:16:480:1:17" ;
     obo:BFO_0000124 <urn:mcdiii:1603:16:480:0> ;
     skos:prefLabel "Plaine Wilhems"@eng-Latn ;
-    wdata:q7200235 "MU17" ;
+    wdata:Q7200235 "MU17" ;
 .
 
 <urn:mdciii:1603:16:480:1:18>
@@ -122,7 +122,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     rdfs:label "1603:16:480:1:18" ;
     obo:BFO_0000124 <urn:mcdiii:1603:16:480:0> ;
     skos:prefLabel "Moka"@eng-Latn ;
-    wdata:q7200235 "MU18" ;
+    wdata:Q7200235 "MU18" ;
 .
 
 <urn:mdciii:1603:16:480:1:19>
@@ -133,7 +133,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     rdfs:label "1603:16:480:1:19" ;
     obo:BFO_0000124 <urn:mcdiii:1603:16:480:0> ;
     skos:prefLabel "Black River"@eng-Latn ;
-    wdata:q7200235 "MU19" ;
+    wdata:Q7200235 "MU19" ;
 .
 
 <urn:mdciii:1603:16:480:1:21>
@@ -144,7 +144,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     rdfs:label "1603:16:480:1:21" ;
     obo:BFO_0000124 <urn:mcdiii:1603:16:480:0> ;
     skos:prefLabel "Rodriguez Island"@eng-Latn ;
-    wdata:q7200235 "MU21" ;
+    wdata:Q7200235 "MU21" ;
 .
 
 <urn:mdciii:1603:16:480:1:22>
@@ -155,7 +155,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     rdfs:label "1603:16:480:1:22" ;
     obo:BFO_0000124 <urn:mcdiii:1603:16:480:0> ;
     skos:prefLabel "North Islands"@eng-Latn ;
-    wdata:q7200235 "MU22" ;
+    wdata:Q7200235 "MU22" ;
 .
 
 <urn:mdciii:1603:16:480:1:23>
@@ -166,6 +166,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     rdfs:label "1603:16:480:1:23" ;
     obo:BFO_0000124 <urn:mcdiii:1603:16:480:0> ;
     skos:prefLabel "Saint Brandon Islands"@eng-Latn ;
-    wdata:q7200235 "MU23" ;
+    wdata:Q7200235 "MU23" ;
 .
 
